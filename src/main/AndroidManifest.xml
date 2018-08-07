@@ -9,7 +9,7 @@
       </intent-filter>
       <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
     </activity>
-    <meta-data android:name="unity.build-id" android:value="e1db3946-9aaa-4e35-98c3-fde8be2924be" />
+    <meta-data android:name="unity.build-id" android:value="4d2422d4-0181-4373-b0ef-af250f2e3e4a" />
     <meta-data android:name="unity.splash-mode" android:value="0" />
     <meta-data android:name="unity.splash-enable" android:value="True" />
     <meta-data android:name="android.max_aspect" android:value="2.1" />
